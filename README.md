@@ -1,0 +1,2 @@
+# internal
+BetterTelegram Internal DLL
